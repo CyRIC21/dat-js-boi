@@ -17,7 +17,7 @@
   },
   "keywords": [
     "heroku",
-    "discord.js"
+    "discord.js" "discordjs/discord.js",
   ],
   "author": "L3NNY0969",
   "license": "MIT",
