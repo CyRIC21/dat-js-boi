@@ -1,7 +1,7 @@
 {
-  "name": "dat-js-boi",
+  "name": "dat-js-boi,
   "version": "1.0.0",
-  "description": "A discord.js testing bot",
+  "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
   "main": "index.js",
   "engines": {
     "node": "8.x",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/L3NNY0969/dat-js-boi.git"
+    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
   },
   "keywords": [
     "heroku",
-    "discord.js" "discordjs/discord.js",
+    "discord.js"
   ],
-  "author": "L3NNY0969",
+  "author": "synicalsyntax",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/L3NNY0969/dat-js-boi/issues"
+    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
   },
-  "homepage": "https://github.com/L3NNY0969/dat-js-boi#readme",
+  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
   "dependencies": {
     "discord.js": "^11.3.0"
   }
