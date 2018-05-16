@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
-    client.user.setActivity('with dat boi', {type: 'STREAMING'});
+    client.user.setActivity('in JS.', {type: 'PLAYING'});
 });
 
 client.on('message', msg => {
